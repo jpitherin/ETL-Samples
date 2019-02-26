@@ -1,17 +1,17 @@
-### ETL-Samples
+# ETL-Samples
 
 ## Finnish Adoptions: 
 - Extract: Extracted and downloaded manually through data provider website UI
 - Transform: Performed with Python code
 - Load: Python code outputs a .csv file that can be easily loaded into a SQL table
 
-# File Descriptions:
+### File Descriptions:
 **ETL_Example_FinnishAdoptions.py** - Python code that performs the data transformation
 **ETL_Example_FinnishAdoptions.ipynb** - Interactive Jupyter notebook 
 **Input_Data/FinlandAdoptions_2017.csv** - Sample file downloaded from data provider
 **Output_Data/ETL_2019-02-07_Finland_Adoptions.csv** - Transformed data
 
-# Data Description:
+### Data Description:
 **Data Provider:** Tilastokeskus, the Finnish public authority for national statistics. 
 
 **Title of Dataset:** 001 -- Adoptions by country of birth, age group and sex of child and type of adoption in 1987 to 2017
