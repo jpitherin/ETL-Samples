@@ -6,10 +6,10 @@
 - Load: Python code outputs a .csv file that can be easily loaded into a SQL table
 
 ### File Descriptions:
-**ETL_Example_FinnishAdoptions.py** - Python code that performs the data transformation
-**ETL_Example_FinnishAdoptions.ipynb** - Interactive Jupyter notebook 
-**Input_Data/FinlandAdoptions_2017.csv** - Sample file downloaded from data provider
-**Output_Data/ETL_2019-02-07_Finland_Adoptions.csv** - Transformed data
+- **ETL_Example_FinnishAdoptions.py** - Python code that performs the data transformation
+- **ETL_Example_FinnishAdoptions.ipynb** - Interactive Jupyter notebook 
+- **Input_Data/FinlandAdoptions_2017.csv** - Sample file downloaded from data provider
+- **Output_Data/ETL_2019-02-07_Finland_Adoptions.csv** - Transformed data
 
 ### Data Description:
 **Data Provider:** Tilastokeskus, the Finnish public authority for national statistics. 
